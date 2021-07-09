@@ -1,2 +1,2 @@
-import numpy, scipy, nltk, pandas
+import numpy, scipy, nltk, pandas, matplotlib
 # my name is dev
